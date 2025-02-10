@@ -1,7 +1,6 @@
 /* Info sektsiyasi uchun stil */
 .info-section {
-    background-color: rgb(142, 199, 66);  /* Yashil fon */
-    color: white;  /* Matn oq rangda */
+    color: black;  /* Matn oq rangda */
     padding: 40px 20px;
     border-radius: 15px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
@@ -16,7 +15,7 @@
     font-size: 2.5em;
     margin-bottom: 15px;
     font-weight: bold;
-    color: #fff;  /* Sarlavha oq rangda */
+    color: black;  /* Sarlavha oq rangda */
     text-transform: uppercase;  /* Sarlavhani katta harflarda */
 }
 
@@ -25,21 +24,21 @@
     font-size: 1.1em;
     margin-bottom: 20px;
     line-height: 1.8;
-    color: #f4f4f4;  /* Matn uchun engil oq rang */
+    color: black;  /* Matn uchun engil oq rang */
     text-align: left;
 }
 
 /* Qo‘shimcha kichik matn */
 .info-section .small-text {
     font-size: 0.9em;
-    color: #d1e8a7;  /* Yengil yashil rangda */
+    color: black;  /* Yengil yashil rangda */
     margin-top: 10px;
 }
 
 /* Info sektsiyasidagi tugmalar */
 .info-section button {
-    background-color: rgb(0, 103, 56);  /* Yashil tugma */
-    color: white;
+    background-color: black;  /* Yashil tugma */
+    color: black;
     border: none;
     padding: 15px 30px;
     border-radius: 8px;
@@ -50,7 +49,7 @@
 
 /* Hover effekti bilan tugmalar */
 .info-section button:hover {
-    background-color: rgb(142, 199, 66);  /* Yashil tugmani hoverda ochiqroq qilish */
+    background-color: black;  /* Yashil tugmani hoverda ochiqroq qilish */
     transform: scale(1.05);
 }
 
