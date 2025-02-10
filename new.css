@@ -92,3 +92,40 @@
         font-size: 1.1em;
     }
 }
+
+.terms-and-conditions {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.terms-and-conditions .section {
+    margin-bottom: 20px;
+}
+
+.terms-and-conditions h2, .terms-and-conditions h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2C3E50;
+}
+
+.terms-and-conditions p {
+    font-size: 1em;
+    color: #34495E;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.terms-and-conditions strong {
+    font-weight: bold;
+    color: #2980B9;
+}
+
+.terms-and-conditions a {
+    color: #2980B9;
+    text-decoration: none;
+}
+
+.terms-and-conditions a:hover {
+    text-decoration: underline;
+}
